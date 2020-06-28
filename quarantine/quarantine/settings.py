@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'quarantine',
         'USER': 'postgres',
         'HOST': 'localhost',
-        'PASSWORD': 'roger',
+        'PASSWORD': '******',
         'PORT': '5432',
     }
 }
